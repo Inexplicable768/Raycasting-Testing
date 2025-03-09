@@ -14,6 +14,8 @@ class Constants:
     WHITE = (255, 255, 255)
     BLACK = (0, 0, 0)
     GRAY = (169, 169, 169)
+    RED = (98, 11, 12)
+    BLUE = (57, 60, 91)
     FLOOR_COLOR = (39, 138, 18)
     CEIL_COLOR = (100, 255, 20)
     WALL_COLOR = (22, 200, 50)
